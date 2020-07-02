@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>コース情報登録</title>
-<?php  echo'prprprpr'?>
+
+<?php  echo'テスト用'?>
+
 </head>
 <body>
 	<h1>コース情報登録</h1>
