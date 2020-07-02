@@ -3,13 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>コース情報登録</title>
-    <script type="text/javascript" language="javascript">
-function check()
-{
-	txt = document.inputDate.titlename.value;
-	if (txt == "") alert("講座名が入力されていません");
-}
-    </script>
+<?php  echo'prprprpr'?>
 </head>
 <body>
 	<h1>コース情報登録</h1>
